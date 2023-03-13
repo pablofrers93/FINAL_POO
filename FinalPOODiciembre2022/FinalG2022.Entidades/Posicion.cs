@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace FinalG2022.Entidades
 {
-    internal class Posicion
+    public enum Posicion
     {
+        Arquero = 1,
+        Defensor, 
+        Central, 
+        Delantero
     }
 }
