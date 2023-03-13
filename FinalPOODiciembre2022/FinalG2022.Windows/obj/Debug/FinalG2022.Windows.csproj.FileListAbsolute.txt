@@ -1,0 +1,86 @@
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\JugadoresDisponibles.txt
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\FinalG2022.Windows.exe.config
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\FinalG2022.Windows.exe
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\FinalG2022.Windows.pdb
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\FinalG2022.Datos.dll
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\FinalG2022.Entidades.dll
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Text.Json.dll
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Memory.dll
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.ValueTuple.dll
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Text.Encodings.Web.dll
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Numerics.Vectors.dll
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Buffers.dll
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\FinalG2022.Datos.pdb
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\FinalG2022.Datos.dll.config
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\FinalG2022.Entidades.pdb
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Text.Json.xml
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Memory.xml
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.ValueTuple.xml
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Text.Encodings.Web.xml
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Numerics.Vectors.xml
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Buffers.xml
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.csproj.AssemblyReference.cache
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.exe.config
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.frmEquipo.resources
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.frmJugadores.resources
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.Properties.Resources.resources
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.csproj.GenerateResource.cache
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.csproj.CoreCompileInputs.cache
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.csproj.CopyComplete
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.exe
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.pdb
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\JugadoresDisponibles.txt
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\FinalG2022.Windows.exe.config
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\FinalG2022.Windows.exe
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\FinalG2022.Windows.pdb
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\FinalG2022.Datos.dll
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\FinalG2022.Entidades.dll
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Text.Json.dll
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Memory.dll
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.ValueTuple.dll
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Text.Encodings.Web.dll
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Numerics.Vectors.dll
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Buffers.dll
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\FinalG2022.Datos.pdb
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\FinalG2022.Datos.dll.config
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\FinalG2022.Entidades.pdb
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Text.Json.xml
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Memory.xml
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.ValueTuple.xml
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Text.Encodings.Web.xml
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Numerics.Vectors.xml
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Buffers.xml
+E:\FinalG2022Dic\FinalG2022.Windows\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\FinalG2022Dic\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.csproj.AssemblyReference.cache
+E:\FinalG2022Dic\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.exe.config
+E:\FinalG2022Dic\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.frmEquipo.resources
+E:\FinalG2022Dic\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.frmJugadores.resources
+E:\FinalG2022Dic\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.Properties.Resources.resources
+E:\FinalG2022Dic\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.csproj.GenerateResource.cache
+E:\FinalG2022Dic\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.csproj.CoreCompileInputs.cache
+E:\FinalG2022Dic\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.csproj.CopyComplete
+E:\FinalG2022Dic\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.exe
+E:\FinalG2022Dic\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.pdb
+D:\Cátedras 2022\POO\Evaluaciones\FinalPOODiciembre2022\FinalG2022.Windows\bin\Debug\JugadoresDisponibles.txt
+D:\Cátedras 2022\POO\Evaluaciones\FinalPOODiciembre2022\FinalG2022.Windows\bin\Debug\FinalG2022.Windows.exe.config
+D:\Cátedras 2022\POO\Evaluaciones\FinalPOODiciembre2022\FinalG2022.Windows\bin\Debug\FinalG2022.Windows.exe
+D:\Cátedras 2022\POO\Evaluaciones\FinalPOODiciembre2022\FinalG2022.Windows\bin\Debug\FinalG2022.Windows.pdb
+D:\Cátedras 2022\POO\Evaluaciones\FinalPOODiciembre2022\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.csproj.AssemblyReference.cache
+D:\Cátedras 2022\POO\Evaluaciones\FinalPOODiciembre2022\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.frmEquipo.resources
+D:\Cátedras 2022\POO\Evaluaciones\FinalPOODiciembre2022\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.frmJugadores.resources
+D:\Cátedras 2022\POO\Evaluaciones\FinalPOODiciembre2022\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.Properties.Resources.resources
+D:\Cátedras 2022\POO\Evaluaciones\FinalPOODiciembre2022\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.csproj.GenerateResource.cache
+D:\Cátedras 2022\POO\Evaluaciones\FinalPOODiciembre2022\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.csproj.CoreCompileInputs.cache
+D:\Cátedras 2022\POO\Evaluaciones\FinalPOODiciembre2022\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.exe
+D:\Cátedras 2022\POO\Evaluaciones\FinalPOODiciembre2022\FinalG2022.Windows\obj\Debug\FinalG2022.Windows.pdb

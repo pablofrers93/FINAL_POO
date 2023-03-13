@@ -1,0 +1,12 @@
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Entidades\bin\Debug\FinalG2022.Entidades.dll
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Entidades\bin\Debug\FinalG2022.Entidades.pdb
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Entidades\obj\Debug\FinalG2022.Entidades.csproj.AssemblyReference.cache
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Entidades\obj\Debug\FinalG2022.Entidades.csproj.CoreCompileInputs.cache
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Entidades\obj\Debug\FinalG2022.Entidades.dll
+D:\Codigo\POO 2022\FinalG2022Dic\FinalG2022.Entidades\obj\Debug\FinalG2022.Entidades.pdb
+D:\Cátedras 2022\POO\Evaluaciones\FinalPOODiciembre2022\FinalG2022.Entidades\bin\Debug\FinalG2022.Entidades.dll
+D:\Cátedras 2022\POO\Evaluaciones\FinalPOODiciembre2022\FinalG2022.Entidades\bin\Debug\FinalG2022.Entidades.pdb
+D:\Cátedras 2022\POO\Evaluaciones\FinalPOODiciembre2022\FinalG2022.Entidades\obj\Debug\FinalG2022.Entidades.csproj.AssemblyReference.cache
+D:\Cátedras 2022\POO\Evaluaciones\FinalPOODiciembre2022\FinalG2022.Entidades\obj\Debug\FinalG2022.Entidades.csproj.CoreCompileInputs.cache
+D:\Cátedras 2022\POO\Evaluaciones\FinalPOODiciembre2022\FinalG2022.Entidades\obj\Debug\FinalG2022.Entidades.dll
+D:\Cátedras 2022\POO\Evaluaciones\FinalPOODiciembre2022\FinalG2022.Entidades\obj\Debug\FinalG2022.Entidades.pdb
